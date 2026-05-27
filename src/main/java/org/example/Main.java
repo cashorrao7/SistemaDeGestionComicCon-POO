@@ -1,7 +1,6 @@
 package org.example;
-public class Main {
     import java.util.ArrayList;
-import java.util.List;
+    import java.util.List;
 public class Main {
     public static void main(String[] args) {
         Categoria catManga = new Categoria("manga y anime", 50, 9);
@@ -46,6 +45,5 @@ public class Main {
         panelDebate.eliminarPanelista(artista1);
         panelDebate.eliminarPanelista(clubFans);
         System.out.println("panel cancelado, relaciones de asistencia eliminadas con exito");
-
     }
 }
