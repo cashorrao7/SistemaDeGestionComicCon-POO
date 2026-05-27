@@ -4,7 +4,7 @@
 
 ## 📅 Fechas Clave y Entregas
 * **Fecha de la actividad:** Miércoles 27 de Mayo de 2026.
-* **Plazo máximo de entrega:** Jueves 28 de Mayo de 2026 a las 17:00 hrs.
+* **Plazo máximo de entrega:** Miércoles 27 de Mayo de 2026 a las 20:00 hrs.
 * **Formato:** Repositorio de GitHub (Fork personal) con el código completo y el diagrama en la carpeta correspondiente.
 * **UML:** Requisito para Diagrama de clases: Este debe ir con todas las convenciones vistas 
 en clases, cardinalidad, encapsulacion, atributos o listas, clases abstractas respresentadas de manera correcta en el diagrama, Etc.
